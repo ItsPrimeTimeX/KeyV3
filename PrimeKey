@@ -1,0 +1,2 @@
+local key = "TestKey"
+return key
