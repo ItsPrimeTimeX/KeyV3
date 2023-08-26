@@ -1,2 +1,2 @@
-local key = "primesquash"
+local key = "primematrix"
 return key
