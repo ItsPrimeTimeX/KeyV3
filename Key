@@ -1,2 +1,2 @@
-local key = "itemking"
+local key = "textread"
 return key
