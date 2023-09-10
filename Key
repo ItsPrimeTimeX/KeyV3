@@ -1,2 +1,2 @@
-local key = "textread"
+local key = "knotstab"
 return key
